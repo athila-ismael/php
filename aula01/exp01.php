@@ -4,13 +4,14 @@
 </head>
 
 <body>
-    
+
+<?php
+     echo"athila ismael"
+//mode test
+?> 
 </body>
 
 </html>
 
-//mode teste
-<?php
-     echo"athila ismael"
 
-?>
+
