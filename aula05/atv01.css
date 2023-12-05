@@ -1,0 +1,25 @@
+body{
+    background-color: red;
+}
+.box{
+    background-color: blue;
+    grid-template-areas: "titulo titulo titulo";
+    grid-template-areas: 100px 1fr 50px;
+    grid-template-columns: 100px 1fr 100px;
+}
+.titulo{
+    background-color: green ;
+    grid-area: titulo;
+}
+.menul{
+    background-color: blueviolet;
+    grid-area: menul;
+ }
+.menuR{
+    background-color: yellow;
+    grid-area: menuR;
+}
+.rodape{
+    background-color: hotpink;
+    grid-area: rodape;
+}
